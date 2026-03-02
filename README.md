@@ -2,27 +2,36 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [Project Name] 🎯
+# Harvest Hive 🎯
 
-## Basic Details
+## The cardamom ecosystem is a web application which is used to help famers to find workers to match workers according to availability and location and to transport them by carpooling.It also help workers find jobs by matching the locations and wage provided.It allows users to detect diseases in crops and find the stock of fertilizers or medicines. It also allows shopkeepers to update their stock of products and find their orders.
 
-### Team Name: [Name]
+### Team Name: Buildverse
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Amritha Santhosh - MBCCET
+- Member 2: Ann Mary Job - MBCCET
 
 ### Hosted Project Link
-[mention your project hosted link here]
+[mention your pr
 
 ### Project Description
-[2-3 lines about what your project does]
+Finding workers for harvesting cardamom. Job with proper wages displayed for workers. 
 
 ### The Problem statement
-[What problem are you solving?]
+Cardamom farmers face labour shortages and delayed workforce availabilty, less availabilty of proper fertilizers, medical assistance needed properly,advices for growth during critical harvesting periods,leading to:
+crop damage and reduced quality
+financial loses
+increased dependence on middle men
+poor communication between farmers and workers.
 
 ### The Solution
-[How are you solving it?]
+Timely harvesting
+Reduced crop wasteage
+Improved farmer income
+Increased employement oppurtunities
+Digital empowerment of rural agriculture
+
 
 ---
 
