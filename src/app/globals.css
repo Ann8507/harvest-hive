@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+:root {
+  --primary: #2d5a27;
+  --primary-light: #4c8c4a;
+  --secondary: #8b5a2b;
+  --accent: #d4af37;
+  --bg-dark: #0f1a0f;
+  --card-bg: rgba(25, 35, 25, 0.85);
+  --glass-border: rgba(255, 255, 255, 0.1);
+  --text-white: #f0f4f0;
+  --text-muted: #a0b0a0;
+}
+
+body {
+  background: var(--bg-dark);
+  color: var(--text-white);
+  min-height: 100vh;
+}
+
+@layer base {
+  * {
+    @apply border-white/10;
+  }
+}
+
+.glass {
+  @apply bg-[var(--card-bg)] backdrop-blur-md border border-[var(--glass-border)] rounded-[20px] transition-all duration-300;
+}
+
+.glass:hover {
+  @apply border-[var(--primary-light)] translate-y-[-5px] shadow-2xl shadow-black/30;
+}
+
+.btn-premium {
+  @apply flex items-center gap-2 px-6 py-3 rounded-xl font-semibold transition-all duration-300 active:scale-95;
+}
+
+.bg-earth-gradient {
+  background-image:
+    radial-gradient(circle at 10% 20%, rgba(45, 90, 39, 0.15) 0%, transparent 40%),
+    radial-gradient(circle at 90% 80%, rgba(139, 90, 43, 0.1) 0%, transparent 40%);
+}
