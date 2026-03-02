@@ -13,7 +13,7 @@
 - Member 2: Ann Mary Job - MBCCET
 
 ### Hosted Project Link
-[mention your pr
+[Project Hosted Link](https://harvest-hive.vercel.app)
 
 ### Project Description
 Finding workers for harvesting cardamom. Job with proper wages displayed for workers. 
