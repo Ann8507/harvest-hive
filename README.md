@@ -14,7 +14,7 @@
 - Member 2: Ann Mary Job - MBCCET
 
 ### Hosted Project Link
-[Project Hosted Link](https://harvest-hive.vercel.app)
+[Project Hosted Link](https://harvest-hive-two.vercel.app/)
 
 ### Project Description
 Harvest Hive is a specialized, role-based web application designed to digitize and optimize the unique agricultural ecosystem of the Cardamom plantations in the Western Ghats. It acts as a digital bridge between farmers, the migratory workforce, and local agricultural supply hubs.
@@ -133,7 +133,6 @@ login page
 
 **System Architecture:**
 
-![Architecture Diagram](docs/architecture.png)
 The Harvest Hive architecture is built for real-time synchronization and extreme performance in rural agricultural regions.
 
 Frontend (Next.js 15 + React 19): A role-based interface providing specific portals for Farmers, Workers, and Shopkeepers with a premium Tailwind CSS v4 Glassmorphism design.
@@ -221,7 +220,12 @@ npm [command]
 ### Video
 
 
-https://cdn-user-temp.veed.io/render/2d5c54c8-3c7f-40ea-b876-e535547920d7.mp4?filename=Harvest%2520Hive%2520_%2520Premium%2520Agrarian%2520Solutions%2520-%2520Google%2520Chrome%25202026-03-02%252023-12-31.mp4
+
+
+https://github.com/user-attachments/assets/1fa837f9-158b-4c5f-8fd4-af95a4935f0f
+
+
+
 
 
 # AI Tools Used 
